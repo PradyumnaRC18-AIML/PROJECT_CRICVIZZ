@@ -1,0 +1,8 @@
+#Ignoring others for now because path_finder is ready but not other files/folders
+/*
+
+!/NON_CRICVIZZ/
+!/NON_CRICVIZZ/PATH_FINDER/
+!.gitignore
+/NON_CRICVIZZ/PASSWORD/
+__pycache__/
